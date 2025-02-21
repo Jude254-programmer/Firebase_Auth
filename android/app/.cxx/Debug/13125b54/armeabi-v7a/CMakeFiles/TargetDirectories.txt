@@ -1,0 +1,2 @@
+C:/Users/ADMIN/OneDrive/Desktop/Android Folder/firebase_app/android/app/.cxx/Debug/13125b54/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/OneDrive/Desktop/Android Folder/firebase_app/android/app/.cxx/Debug/13125b54/armeabi-v7a/CMakeFiles/rebuild_cache.dir
